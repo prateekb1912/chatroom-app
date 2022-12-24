@@ -1,9 +1,3 @@
-# chatroom-app
+# Connect4 Game in Python
 
-A simple chatroom application in Python using SyncIO and Flask
-
-## Server-side
-Implemented using the Flask app setup with SocketIO
-
-## Client-side
-Using JavaScript SocketIO CDN
+Learn WebSockets by creating a simple Connect4 game 
